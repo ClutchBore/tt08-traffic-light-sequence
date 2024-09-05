@@ -4,7 +4,7 @@ project:
   title:        "Traffic-light-sequence"      # Project title
   author:       "Shaurya Sharma"      # Your name
   discord:      "ClutchBore74"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "A simple traffic ligth sequence"      # One line description of what your project does
+  description:  "A simple traffic light sequence"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
   #This project was sponsored by The MITRE Corporation and  MIT/LL Beaverworks Summer Institute https://beaverworks.ll.mit.edu/CMS/bw/bwsi
