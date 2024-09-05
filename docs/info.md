@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Sequence of Traffic light from Red to Red-Yellow to Green to Yellow to Red
 ## How to test
 
-Explain how to use your project
+Input 00= Red, Input 01= Red-Yellow, Input 10= Green, Input 11= Yellow
 
 ## External hardware
 
