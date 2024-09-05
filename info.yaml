@@ -7,7 +7,7 @@ project:
   description:  "A simple traffic ligth sequence"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
-
+  #This project was sponsored by The MITRE Corporation and  MIT/LL Beaverworks Summer Institute https://beaverworks.ll.mit.edu/CMS/bw/bwsi
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
